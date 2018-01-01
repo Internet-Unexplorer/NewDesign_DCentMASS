@@ -1,0 +1,67 @@
+.umar-first-navbar
+{
+ margin-top: 10px;
+}
+
+.umar-home-heading
+{
+font-family: 'Bungee', cursive;
+}
+
+
+.home-nav-button
+
+{
+	
+	background-color: white;
+}
+
+
+@media (max-width: 767px) { 
+    .navbar{
+     erty   display:none;
+    }
+}
+
+.images-home
+{
+	/*height: 100%;*/
+	/*width: 100%;*/
+ /*object-fit: contain;*/
+}
+
+.thumbnail-header
+{
+	font-weight: bold;
+}
+
+a:hover
+{
+	text-decoration: none;
+	color: black;
+}
+
+a
+{
+	color: black;
+}
+
+.dcentmass-howitworks
+{
+	j
+	margin-top: 20px;
+	text-align: center;
+
+}
+
+.howitworks-margin
+{
+	margin-top: 50px;
+}
+
+.dcentmass-howitworks2
+{
+	
+	margin-top: 20px;
+	text-align: center;
+}
