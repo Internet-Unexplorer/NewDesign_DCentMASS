@@ -111,3 +111,48 @@
     position: relative;
     opacity: 0.7;
  }
+
+ .nad-dmlink:hover{
+     color: red;
+     background-color: black;
+ }
+
+ /* .nad-para{
+     text-align: justify;
+ } */
+
+ .nad-jumbodm1{
+ background-image: url("../images/nad-im1.jpeg");
+ width:100%;
+ }
+
+ .nad-jumbodm2{
+    background-image: url("../images/nad-im2.jpeg");
+    width:100%;
+}
+
+.nad-jumbodm3{
+        background-image: url("../images/nad-im3.jpeg");
+        width:100%;
+ }
+
+ .nad-jumbodm4{
+    background-image: url("../images/nad-im4.jpeg");
+    width:100%;
+}
+
+    
+.nad-jumbodm{
+background-image: url("../images/nad-bgp.jpeg");
+
+    /* Set a specific height */
+    /* min-height: 500px;  */
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
