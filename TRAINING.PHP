@@ -97,9 +97,10 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="jumbotron jumbotron-fluid" >
+<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/career counseling.png');
+ background-size: 100%; >
   <div class="container">
-  <span class="main-heading">  <center>CORPORATE TRAINING</center></span>
+  <span class="main-heading">  <center><font color="white">CORPORATE TRAINING</font></center></span>
   </div>
 </div>
 

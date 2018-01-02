@@ -98,8 +98,9 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
-<span class="main-heading"><center>STUDENT HUB</centr></span>  </div>  
+<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Student Hub.png');
+ background-size: 100%; ">
+<span class="main-heading"><center><font color="white">STUDENT HUB</font></centr></span>  </div>  
   
   
 

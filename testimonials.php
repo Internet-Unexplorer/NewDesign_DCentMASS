@@ -106,9 +106,10 @@ Date:        <dd-mm-yyyy>
   <div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
- <div class="jumbotron jumbotron-fluid" >
+ <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Testimonials.png');
+ background-size: 100%; >
   <div class="container">
-  <span class="main-heading">  <center>TESTIMONIALS</center></span>
+  <span class="main-heading">  <center><font color="white">TESTIMONIALS</font></center></span>
   </div>
 </div>
 
