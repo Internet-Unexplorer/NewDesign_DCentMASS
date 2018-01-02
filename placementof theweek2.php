@@ -136,7 +136,7 @@ Date:        01-01-2018
   </div>
 </div>
 
-<center><img src="images/placement3.png" class="img-fluid"/></center>
+<center><img src="images/placement3.png" class="img-fluid sridhar-text3"/></center>
 
 
         
