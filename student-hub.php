@@ -115,7 +115,7 @@ Date:        <dd-mm-yyyy>
       <div class="col-md-6">
      
                                
-      <div class="col-md" ><img src="images/s-h-1.png" style="width:100%;height:300px;"   >
+      <div class="col-md" ><img src="images/s-h-1.png" style="width:100%;height:300px;">
       <span class="para-heading">the year of living with banksy</span>
       When I first moved to Los Angeles in July of 2013, I found a room for rent in a house on Craigslist. I soon learned the landlord, and the…When I first moved to Los Angeles in July of 2013, I found a room for rent in a house on Craigslist. I soon learned the landlord, and the…
       
@@ -211,5 +211,3 @@ Date:        <dd-mm-yyyy>
 <?php include_once("script.php"); ?>
 </body>
 </html>
-
-

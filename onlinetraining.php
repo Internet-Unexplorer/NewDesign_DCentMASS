@@ -100,9 +100,10 @@ Date:        <dd-mm-yyyy>
 <!-- WRITE MAIN CONTENT HERE -->
 
 
-    <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-color: #A9E8DC; border-radius: 8px;">
+    <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Online Training.png');
+ background-size: 100%;'">
   <div class="container">
-    <h1 class="display-7">ONLINE TRAINING</h1>
+    <h1 class="display-7"><font color="white"><center>ONLINE TRAINING</center></font></h1>
   
   </div>
 </div>

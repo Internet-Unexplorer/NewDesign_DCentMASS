@@ -90,7 +90,7 @@ Date:        <dd-mm-yyyy>
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 <!-- <span class="bgtext">Dcent MASS</span> -->
-<div class="jumbotron jumbotron-fluid nad-jumbodm" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
+<div class="jumbotron jumbotron-fluid nad-jumbodm" style="margin-top: 10px; background-image: url('' ); ">
   <div class="container">
     <center><h2>Dcent MASS</h2></center>
   </div>

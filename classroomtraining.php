@@ -90,52 +90,55 @@ Date:        <dd-mm-yyyy>
 <!-- MAIN CONTENT STARTS -->
 
 
-<center><div class="jumbotron jumbotron-fluid" style="margin-top: 10px;">
+<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Classroom Training.png');
+ background-size: 100%;">
   <div class="container">
-    <font color="white"><h2 class="display-7">CLASSROOM TRAINING</h2></font>
- 
-  </div>
-</div></center>
+      <font color="white"><center><h2 class="display-7">Classroom Training</h2></center></font>
+ </div>
+</div>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-     
-        <a href="#"><img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem Ipsum is simply dummy</h5></span> text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</figcaption>
-     
+     <figure class="figure">
+        <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      </figure>
     </div>
 
   <div class="col-md-6">
     <div class="row">
       <div class="col-md-6">
-        
-        <a href="#"><img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem </h5></span>Ipsum is simply dummy text of the printing and typesetting industry.</figcaption>
-     
-      </div>
+        <figure class="figure">
+          <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+        </figure>
+     </div>
+
       <div class="col-md-6">
-        
-        <a href="#"><img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem</h5></span> Ipsum is simply dummy text of the printing and typesetting industry.</figcaption>
-      
+        <figure class="figure">
+          <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+        </figure>
       </div>
     </div>
     <hr>
+
     <div class="row">
       <div class="col-md-6">
-        
-        <a href="#"><img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem </h5></span>Ipsumis simply dummy text of the printing and typesetting industry.</figcaption>
-      
+        <figure class="figure">
+          <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+        </figure>
       </div>
+
       <div class="col-md-6">
-      
-        <a href="#"><img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem </h5></span>Ipsum is simply dummy text of the printing and typesetting industry.</figcaption>
-      
+        <figure class="figure">
+          <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+        </figure>
       </div>
     </div>
-</div>
+  </div>
 </div>
 </div>
 <hr>
@@ -145,64 +148,62 @@ Date:        <dd-mm-yyyy>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-4">
-  
-        <a href="#"><img src="images/sumaiya_images/4.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem Ipsum is simply dummy</h5></span> text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</figcaption>
-      
-
+      <figure class="figure">
+        <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+        <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      </figure>
     </div>
-     <div class="col-md-4">
-      
-        <a href="#"><img src="images/sumaiya_images/4.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem Ipsum is simply dummy</h5></span> text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</figcaption>
-      
 
-     </div>
+     <div class="col-md-4"> 
+      <figure class="figure">
+        <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+        <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      </figure>
+    </div>
+
       <div class="col-md-4">
-        
-        <a href="#"><img src="images/sumaiya_images/4.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem Ipsum is simply dummy</h5></span> text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</figcaption>
-      
-
+        <figure class="figure">
+          <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+        </figure>
       </div>
   </div>
 </div>
 <hr>
 
 
-
-
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        
-       <a href="#"> <img src="images/sumaiya_images/3.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem Ipsum is simply dummy</h5></span> text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</figcaption>
-     
+        <figure class="figure">
+          <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+        </figure>
     </div>
-    <div class="col-md-6">
 
+    <div class="col-md-6">
       <div class="row">
         <div class="col-md-12">
-             
-       <a href="#"> <img src="images/sumaiya_images/3.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem</h5></span> Ipsum is simply the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.</figcaption>
-     
+             <figure class="figure">
+              <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+              <figcaption class="figure-caption">A caption for the above image.</figcaption>
+              </figure>
         </div>
       </div>
 
-            <div class="row">
+    <div class="row">
       <div class="col-md-6">
-          
-        <a href="#"><img src="images/sumaiya_images/3.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem</h5></span> Ipsum is simply.</figcaption>
-      
+          <figure class="figure">
+            <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+            <figcaption class="figure-caption">A caption for the above image.</figcaption>
+          </figure>
       </div>
       <div class="col-md-6">
           
-        <a href=""><img src="images/sumaiya_images/3.jpeg" class="figure-img img-fluid " alt="A generic square placeholder image with rounded corners in a figure."></a>
-        <figcaption class="figure-caption"><span><h5>Lorem</h5></span> Ipsum is simply.</figcaption>
-      
+       <figure class="figure">
+        <img src="images/sumaiya_images/1.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+          <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      </figure>
       </div>  
       </div>
     </div>
