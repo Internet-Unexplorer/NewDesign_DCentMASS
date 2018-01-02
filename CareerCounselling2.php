@@ -16,7 +16,7 @@ Date:        01-01-2018
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <title>Career Counselling</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -109,7 +109,7 @@ Date:        01-01-2018
 <div class="row">
 <hr>
 <div class="col-md-3">
-   <center> <img src="images/cc12.png" class="img-fluid"><br><br>
+   <center> <img src="images/cc1.png" class="img-fluid" width="100px"><br><br>
 <span class=text3> Stream Selector </span><br>
 <span class=text3>What to do after 10th?</span><br> <br>
   <!-- Button to Open the Modal -->
@@ -119,7 +119,7 @@ Date:        01-01-2018
 </div>
 
 <div class="col-md-3">
-  <center> <img src="images/cc13.png" class="img-fluid"><br><br>
+  <center> <img src="images/image1.png" class="img-fluid"><br><br>
   <span class=.text>Engineering Branch Selector</span>
   <span class=.text>Which engg. branch is right?</span><br><br>
   <!-- Button to Open the Modal -->
@@ -129,7 +129,7 @@ Date:        01-01-2018
 </div>
 
 <div class="col-md-3">
-  <center> <img src="images/cc14.png" class="img-fluid"><br><br>
+  <center> <img src="images/image2.png" class="img-fluid"><br><br>
   <span class=.text>Ideal Career Test</span><br>
   <span class=.text>What career is right for me?</span><br><br>
   <!-- Button to Open the Modal -->
@@ -139,7 +139,7 @@ Date:        01-01-2018
 </div>
 
 <div class="col-md-3">
- <center><img src="images/cc15.png" class="img-fluid"> <br><br>
+ <center><img src="images/cc4.png" class="img-fluid"> <br><br>
  <span class=.text>Skill Based Career</span><br>    
  <span class=.text>What is my true skills?</span> <br><br>
   <!-- Button to Open the Modal -->
