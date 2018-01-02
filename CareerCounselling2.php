@@ -100,7 +100,7 @@ Date:        01-01-2018
 <!-- WRITE MAIN CONTENT HERE -->
 <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
   <div class="container">
-    <span class="main-heading"><center>Career Counselling</center></span>
+    <span class="main-heading"><center>CAREER COUNSELLING</center></span>
   </div>
 </div>  
  

@@ -104,137 +104,113 @@ Date:        02-01-2018
 
  
   </style>
+<span class="para-heading">What sets us apart</span>
 
-<body data-spy="scroll" data-target="#myScrollspy" data-offset="1">
+  <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining  </p> <br>
 
 <div class="container-fluid">
-  <div class="row">
-       <div class="col-md-10">
+<div class="col-md-6">
 
-<span class="bgtext"> WHY US </span>
-      
-      <div id="section1" class="bg-default">    
-        <br><br><h3>What sets us apart</h3><br>
-        <img align="right" src="images/whyus.png" class="img-fluid" id="myImg" height="100px" width="200px" /> <br>
-          
-          
+</div>
 
-        <h5> Employee </h5><br>
-        
-        <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> <br><br>
 
-       
+<div class="row">
+  <div class="col-md-6">
+<!-- Videos -->
+ <iframe width="450" height="200" src="https://www.youtube.com/embed/5Aawqth97fs?autoplay=0">
+</iframe>
+</div>
+<div class="col-md-6">
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/5Aawqth97fs?autoplay=0">
-        </iframe></center>
+<span class="para-heading">Employee</span><br>
 
-          <br><br>
-      </div>
-    
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially .
+</p>
+</div> 
+</div>
+
+<br><br>
+
+
+<div class="row">
+  <div class="col-md-6">
+<!-- Videos -->
+ <iframe width="450" height="200" src="https://www.youtube.com/embed/BRlqDsDqQ3Q?autoplay=0">
+</iframe>
+</div>
+<div class="col-md-6">
+
+<span class="para-heading">Employer</span><br>
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially .
+</p>
+</div> 
+</div>
+
+<br><br>
+
+
+<div class="row">
+  <div class="col-md-6">
+<!-- Videos -->
+ <span class="para-heading">Student</span><br>
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially .
+</p>
+</div> 
+<div class="col-md-6">
+
+  <iframe width="450" height="200" src="https://www.youtube.com/embed/h4oWLjHHoDY?autoplay=0">
+</iframe>
+</div>
+
+
+
+
+
+</div>
+
+<br><br>
+
+
+<div class="row">
   
+<div class="col-md-6">
 
-      <div id="section2" class="bg-default"> 
-        <br><br><h3>What sets us apart</h3><br>
-         <img align="right" src="images/whyus.png" class="img-fluid" id="myImg" height="100px" width="200px" /> <br>
-        <h5> Employer </h5><br>
+<span class="para-heading">Faculty</span><br>
 
-        <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p><br><br>
-      
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially .
+</p>
+</div>
 
+<div class="col-md-6">
+<!-- Videos -->
+ <iframe width="450" height="200" src="https://www.youtube.com/embed/3AnpN4IiAKw?autoplay=0">
+</iframe>
+</div> 
+</div>
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/BRlqDsDqQ3Q?autoplay=0">
-        </iframe></center>
-
-          <br><br>
-
-      </div>
-    
-      
-
-     <div id="section3" class="bg-default">         
-       <br><br><h3>What sets us apart</h3><br>
-         <img align="right" src="images/whyus.png" class="img-fluid" id="myImg" height="100px" width="200px" /> <br>
-        <h5> Student</h5><br>
-
-        <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p><br><br>
-     
+<br><br>
 
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/h4oWLjHHoDY?autoplay=0">
-        </iframe></center>
+<div class="row">
+  <div class="col-md-6">
+<!-- Videos -->
+ <iframe width="450" height="200" src="https://www.youtube.com/embed/yWrQuenntOc?autoplay=0">
+</iframe>
+</div>
+<div class="col-md-6">
 
-        <br><br>
+<span class="para-heading">College</span><br>
 
-      </div>
-    
- 
-      
-
-      <div id="section4" class="bg-default">         
-        <br><br><h3>What sets us apart</h3><br>
-         <img  align="right" src="images/whyus.png" class="img-fluid" id="myImg" height="100px" width="200px"/> <br>
-        <h5> Faculty </h5><br>
-
-        <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p><br><br>
-     
-     
-
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/3AnpN4IiAKw?autoplay=0">
-        </iframe></center>
-
-        <br><br>
-
-      </div>
-    
-     
-      
-
-      <div id="section5" class="bg-default">         
-        <br><br><h3>What sets us apart</h3><br>
-         <img  align="right" src="images/whyus.png" class="img-fluid" id="myImg" height="100px" width="200px"/> <br>
-        <h5> College </h5><br>
-
-        <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><br><br>
-      
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially .
+</p>
+</div> 
+</div>
 
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/yWrQuenntOc?autoplay=0">
-        </iframe></center>
-
-          <br><br><br><br><br>
-      </div>
-    
-   
-    </div>
 
 
-    <div class="col-md-2">
-      
-  
-      <ul class="nav nav-pills flex-column">
-         <li class="nav-item">
-           <div>
-          <img src="images\whyus2.png" height="65" width="189px"/> 
-        </div> <br>
-          <a href="#section1" " class="btn btn-warning btn-block" > <font size="4px">Employee</font> </a> </p>
-         </li>
-         
-        <li class="nav-item">
-          <a href="#section2"  class="btn btn-warning btn-block"> <font size="4px">Employer</font> </a> </p>
-        </li>
-        <li class="nav-item">
-         <a href="#section3"  class="btn btn-warning btn-block"> <font size="4px">Student</font> </a> </p>
-          
-        </li>
-        <li class="nav-item">
-           <a href="#section4"  class="btn btn-warning btn-block"> <font size="4px">Faculty</font> </a> </p>
-        </li>
-        <li class="nav-item">
-            <a href="#section5"  class="btn btn-warning btn-block"> <font size="4px">College</font> </a> </p>
-        </li>
-      </ul>
-    </nav>
-    </div>
     </div>
 
 </div>

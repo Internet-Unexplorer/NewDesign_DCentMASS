@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: SRIDHAR K NAYAK   
-E-mail ID:   sridharsourceus@gmail.com
-Date:        01-01-2018
+Author name: Sridhar K Nayak
+E-mail ID:   sridharsourceus@gmail.com>
+Date:        02-01-2018
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -16,7 +16,7 @@ Date:        01-01-2018
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Placement Of The Week</title>
+    <title>Webinar</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -89,20 +89,19 @@ Date:        01-01-2018
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
+<!-- <span class="bgtext">Template</span> -->
 
 
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-
 <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
   <div class="container">
-    <span class="main-heading"><center>PLACEMENT OF THE WEEK</center></span>
+    <span class="main-heading"><center>WEBINAR</center></span>
   </div>
 </div>
 
-   
-     <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum</p> 
+<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p> 
      <br>
   
 <div class="container-fluid">
@@ -111,54 +110,27 @@ Date:        01-01-2018
 
     <center><iframe width="450" height="200" src="https://www.youtube.com/embed/-qsYLHtT-JQ?autoplay=0">
     </iframe> <br><br></center>
+  </div>
+<div class="col-md-6">
+    <span class="para-heading">Lorem Ipsum is simply dummy</span><br>
 
-    <span class="para-heading">Lorem Ipsum is simply dummy</span>
+    <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining   </p><br><br>
+</div>
+
+ <div class="col-md-6">
+
+    <center><iframe width="450" height="200" src="https://www.youtube.com/embed/Gz2wBT9gZfo?autoplay=0">
+    </iframe> <br><br></center>
+  </div>
+<div class="col-md-6">
+    <span class="para-heading">Lorem Ipsum is simply dummy</span><br>
 
     <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining   </p>
 </div>
-
-<div class="col-md-6">
-    <center><iframe width="450" height="200" src="https://www.youtube.com/embed/YixNnWMT7y8?autoplay=0">
-    </iframe> <br><br></center>
-
-    <span class="para-heading">Lorem Ipsum is simply dummy</span>
-
-   <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining   </p>
-</div>
-
-
-
-</div>
-
-<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
-  <div class="container">
-    <center><h2>Our Partners</h2></center>
-  </div>
-</div>
-
-<center><img src="images/placement3.png" class="img-fluid sridhar-text3"/></center>
-
-
-        
-
-</div>
-
-
-
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 
-</div>
-</div>
-
-
-
-
-
-
-
-
 <!-- MAIN CONTENT ENDS -->
-	</div>
+</div>
 </div>
 <?php include_once("script.php"); ?>
 </body>
