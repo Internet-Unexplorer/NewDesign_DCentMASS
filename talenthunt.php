@@ -1,7 +1,7 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
+Author name: Manjunath Kolkar;
+E-mail ID:   manju10sourceus@gmail.com
 Date:        <dd-mm-yyyy>
 */
 /////////////////////////////////////////////////////////
@@ -108,16 +108,16 @@ Date:        <dd-mm-yyyy>
   
 
 
- <p style="font-family:roboto;">  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> <br><br><br> 
+ <p style="font-family:roboto;">  <b>L</b>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> <br><br><br> 
 
 <div class="row">
   <div class="col-md-6">
-<iframe width="560" height="160" src="https://www.youtube.com/embed/Ms5bDUm1C_M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="260" src="https://www.youtube.com/embed/Ms5bDUm1C_M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 <div class="col-md-6">
-<p style="font-family:roboto;" > Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,  with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div>
+<p style="font-family:roboto;padding-top:60px;" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,  with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div>
 
 
-</div>
+</div><br><br><br>
 
 
 <div class="jumbotron jumbotron-fluid" >
@@ -125,8 +125,30 @@ Date:        <dd-mm-yyyy>
   <span class="main-heading">  <center>OUR STAGE YOUR TALENT</center></span>
   </div>
 </div>
+
+
+<div class="row">
+  <div class="col-md-6">
+<img width="100%" height="300px"   src="images/hunt.jpg">
+</div>
 <div class="col-md-6">
-<img width="100%" height="500px" style="opacity:0.5" src="images/talent.jpg">
+  <h3 class="card-title"><b>Gaming Hunt</b></h3><hr>
+  <p style="font-family:roboto;padding-top:60px;" > Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,  with desktop publishing software like Aldus PageMaker including version.</p>
+</div>
+</div><br><br><br>
+
+
+<div class="row">
+  
+<div class="col-md-6">
+  <h3 class="card-title"><b>Coding Hunt</b></h3><hr>
+  <p style="font-family:roboto;padding-top:60px;" > Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,  with desktop publishing software like Aldus PageMaker including version.</p>
+</div>
+<div class="col-md-6">
+<img width="100%" height="300px"  src="images/code.jpg">
+</div>
+
+
 </div>
 <!--   </div> -->
 
