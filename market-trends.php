@@ -1,3 +1,4 @@
+
 <?php
 /*
 Author name: <Your name>;
@@ -98,9 +99,8 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Market Trends.png');
- background-size: 100%; ">
-<span class="main-heading"><center><font color="white">MARKET TRENDS</font></centr></span>  </div>  
+<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(images/maktum/online2.png); ">
+<span class="main-heading"><center>MARKET TRENDS</centr></span>  </div>  
   
   
 
@@ -228,3 +228,4 @@ Date:        <dd-mm-yyyy>
 <?php include_once("script.php"); ?>
 </body>
 </html>
+
