@@ -107,11 +107,11 @@ Date:        2/1/18
 </div>
 
 <div class="col-md-1">
-<div class="nad-vl"></div>
+<div class="nad-vl1"></div>
 </div>
 
 <div class="col-md-8">
-<center>
+
 <ul class="nad-ul">
 <li>1. This is the point for the skills required </li>
 <li>2. This is the point for the skills required </li>
@@ -119,7 +119,10 @@ Date:        2/1/18
 <li>4. This is the point for the skills required </li>
 <li>5. This is the point for the skills required </li>
 </ul>
-</center>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
 </div>
 
 </div>
@@ -134,11 +137,11 @@ Date:        2/1/18
 </div>
 
 <div class="col-md-1">
-<div class="nad-vl"></div>
+<div class="nad-vl2"></div>
 </div>
 
 <div class="col-md-8">
-<center>
+
 <ul class="nad-ul">
 <li>1. This is the point for the skills required </li>
 <li>2. This is the point for the skills required </li>
@@ -146,7 +149,10 @@ Date:        2/1/18
 <li>4. This is the point for the skills required </li>
 <li>5. This is the point for the skills required </li>
 </ul>
-</center>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
 </div>
 
 </div>
@@ -161,11 +167,11 @@ Date:        2/1/18
 </div>
 
 <div class="col-md-1">
-<div class="nad-vl"></div>
+<div class="nad-vl3"></div>
 </div>
 
 <div class="col-md-8">
-<center>
+
 <ul class="nad-ul">
 <li>1. This is the point for the skills required </li>
 <li>2. This is the point for the skills required </li>
@@ -173,7 +179,10 @@ Date:        2/1/18
 <li>4. This is the point for the skills required </li>
 <li>5. This is the point for the skills required </li>
 </ul>
-</center>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
 </div>
 
 </div>
@@ -188,11 +197,11 @@ Date:        2/1/18
 </div>
 
 <div class="col-md-1">
-<div class="nad-vl"></div>
+<div class="nad-vl4"></div>
 </div>
 
 <div class="col-md-8">
-<center>
+
 <ul class="nad-ul">
 <li>1. This is the point for the skills required </li>
 <li>2. This is the point for the skills required </li>
@@ -200,7 +209,10 @@ Date:        2/1/18
 <li>4. This is the point for the skills required </li>
 <li>5. This is the point for the skills required </li>
 </ul>
-</center>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
 </div>
 
 </div>
@@ -215,11 +227,11 @@ Date:        2/1/18
 </div>
 
 <div class="col-md-1">
-<div class="nad-vl"></div>
+<div class="nad-vl5"></div>
 </div>
 
 <div class="col-md-8">
-<center>
+
 <ul class="nad-ul">
 <li>1. This is the point for the skills required </li>
 <li>2. This is the point for the skills required </li>
@@ -227,7 +239,10 @@ Date:        2/1/18
 <li>4. This is the point for the skills required </li>
 <li>5. This is the point for the skills required </li>
 </ul>
-</center>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
 </div>
 
 </div>

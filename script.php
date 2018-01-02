@@ -8,6 +8,7 @@
 
 <!-- MaterialDesign -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
@@ -23,5 +24,7 @@
 <script src="js/sumaiya.js"></script>
 
 <script src="js/girish.js"></script>
+
+<script src="js/nadeem.js"></script>
 
 

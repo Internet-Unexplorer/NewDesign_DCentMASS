@@ -101,13 +101,30 @@ Date:        2/1/18
 <!-- WRITE MAIN CONTENT HERE -->
 <div class="container-fluid">
 <hr>
-<center>
-<div class="btn-group" role="group" aria-label="Basic example">
- <button type="button" class="btn btn-secondary">Job</button>
-  <button type="button" class="btn btn-secondary">Locaton</button>
-  <button type="button" class="btn btn-secondary">Experience</button>
+<!-- <div id="form-wrapper">
+<button class="go-button">Go</button>
+<span class="nav-list">
+  <span class="current-selection">
+  </span>
+  <span class="arrow"></span>
+    <select id="dropdown">
+    <option value="books-and-ebooks">Books & eBooks</option>
+    <option value="audiobooks">Audiobooks</option>
+    <option value="dvds">DVDs</option>
+    <option value="other-resources">Other Resources</option>
+    <option value="random">Random</option>
+  </select>
+</span>
+  <div class="in-wrap">
+    <input type="text" name="q" id="search-box">
+  </div>
 </div>
-
+</div> -->
+<form class="form-inline my-2 my-lg-0">
+<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+<center>
 <h3> OR </h3>
 
 <button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">

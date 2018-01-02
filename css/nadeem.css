@@ -155,12 +155,34 @@ background-image: url("../images/nad-bgp.jpeg");
     background-size: cover;
 }
 
-.nad-vl{
+.nad-vl1{
         border-left: 6px solid green;
         height: 250px;
         position: relative;
 }
+.nad-vl2{
+    border-left: 6px solid blue;
+    height: 250px;
+    position: relative;
+}
+.nad-vl3{
+    border-left: 6px solid red;
+    height: 250px;
+    position: relative;
+}
+.nad-vl4{
+    border-left: 6px solid orangered;
+    height: 250px;
+    position: relative;
+}
+.nad-vl5{
+    border-left: 6px solid pink;
+    height: 250px;
+    position: relative;
+}
 
 .nad-ul{
-    margin-top: 60px;
+    margin-top: 30px;
+    line-height: 2;
 }
+
