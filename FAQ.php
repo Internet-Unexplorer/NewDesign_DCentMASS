@@ -98,9 +98,14 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<span class="bgtext">FAQ's </span>
+<!-- <span class="bgtext">FAQ's </span>
   <h1>FAQ's</h1> 
-  <hr><hr>
+  <hr><hr> -->
+  <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
+  <div class="container">
+    <center><h2>FAQ</h2></center>
+  </div>
+</div>
 
 
   <!-- Product FAQ -->

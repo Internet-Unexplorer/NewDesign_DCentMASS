@@ -155,4 +155,12 @@ background-image: url("../images/nad-bgp.jpeg");
     background-size: cover;
 }
 
+.nad-vl{
+        border-left: 6px solid green;
+        height: 250px;
+        position: relative;
+}
 
+.nad-ul{
+    margin-top: 60px;
+}
