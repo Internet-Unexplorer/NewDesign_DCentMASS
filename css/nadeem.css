@@ -114,7 +114,7 @@
 
  .nad-dmlink:hover{
      color: red;
-     background-color: black;
+     transform: scale(1.2);
  }
 
  /* .nad-para{
@@ -141,6 +141,22 @@
     width:100%;
 }
 
+ /* jumbo hover */
+ .nad-jumbodm1:hover{
+    transform: scale(1.2);
+ }
+
+ .nad-jumbodm2:hover{
+    transform: scale(1.2);
+ }
+
+ .nad-jumbodm3:hover{
+    transform: scale(1.2);
+ }
+
+ .nad-jumbodm4:hover{
+    transform: scale(1.2);
+ }
     
 .nad-jumbodm{
 background-image: url("../images/nad-bgp.jpeg");
@@ -157,32 +173,31 @@ background-image: url("../images/nad-bgp.jpeg");
 
 .nad-vl1{
         border-left: 6px solid green;
-        height: 250px;
+        height: 160px;
         position: relative;
 }
 .nad-vl2{
     border-left: 6px solid blue;
-    height: 250px;
+    height: 160px;
     position: relative;
 }
 .nad-vl3{
     border-left: 6px solid red;
-    height: 250px;
+    height: 160px;
     position: relative;
 }
 .nad-vl4{
     border-left: 6px solid orangered;
-    height: 250px;
+    height: 160px;
     position: relative;
 }
 .nad-vl5{
     border-left: 6px solid pink;
-    height: 250px;
+    height: 160px;
     position: relative;
 }
 
 .nad-ul{
-    margin-top: 30px;
     line-height: 2;
 }
 

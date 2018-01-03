@@ -112,13 +112,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</0l>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -142,13 +142,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -172,13 +172,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -202,13 +202,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -232,13 +232,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
