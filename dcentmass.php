@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
-Date:        <dd-mm-yyyy>
+Author name: Nadeem
+E-mail ID:   nadeem566sourceus@gmail.com
+Date:        30/12/17
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -27,8 +27,8 @@ Date:        <dd-mm-yyyy>
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
-        <li class="activeLink"><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
-        <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
+        <li><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
+        <li class="activeLink"><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
         <li><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
         <li><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
         <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
@@ -47,7 +47,7 @@ Date:        <dd-mm-yyyy>
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <ul> <!-- User class="activeLink" to make links active -->
         <li><a href="#">Home</a></li>
-        <li class="activeLink"><a href="#">DCent MASS</a></li>
+        <li><a href="#">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
         <li><a href="#">Student Hub</a></li>
         <li><a href="#">Courses</a></li>
