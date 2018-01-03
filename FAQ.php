@@ -1,14 +1,13 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
-Date:        <dd-mm-yyyy>
+Author name: Nadeem
+E-mail ID:  nadeem566sourceus@gmail.com
+Date:        1/1/18
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
 //include_once("checkLoginStatus.php");
 ?>
-
 
 <!DOCTYPE html>
 <html lang="en">

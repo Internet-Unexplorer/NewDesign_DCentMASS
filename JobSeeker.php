@@ -120,6 +120,7 @@ Date:        2/1/18
   </div>
 </div>
 </div> -->
+
 <form class="form-inline my-2 my-lg-0">
 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
 <div class="dropdown show">
@@ -156,10 +157,14 @@ Date:        2/1/18
   </div>
 </div>
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+     
     </form>
+
 <center>
 <h3> OR </h3>
+</center>
 
+<center>
 <button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
   Upload Resume
 </button>
