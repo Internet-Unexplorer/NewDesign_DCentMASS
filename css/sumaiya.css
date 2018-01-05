@@ -1,6 +1,43 @@
-.img-fluid
-{
-  height: 100%;
-  width: 100%;
-  object-fit: contain;
+
+/*
+.block-parallax-1 {
+    overflow: hidden;
+    position: relative;
 }
+.block-parallax-1 .parallax-bg {
+    background-attachment: fixed;
+    background-image: url('../images/stock/online Course.png');
+    background-position: 0px 0px;
+    background-repeat: repeat;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    min-width: 1170px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+.block-parallax-1 .md-box {
+    padding: 40px 0 40px;
+    background: rgba(0, 0, 0, 0.45);
+    position: relative;
+    height: 100%;
+    text-align: center;
+}
+.block-parallax-1 .md-box h1 {
+    color: #fff;
+}
+
+.block-parallax-2 .parallax-bg { 	
+	background-image: url('../images/stock/online Course.png');
+}
+
+
+
+h2 {
+    color: #555;
+    text-align: center; 
+    padding: 25px 0;
+    margin: 0;
+}
+*/

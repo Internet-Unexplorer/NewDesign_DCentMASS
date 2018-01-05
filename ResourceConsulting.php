@@ -100,9 +100,10 @@ Date:        16/12/17
 <!-- WRITE MAIN CONTENT HERE -->
 <!-- <span class="bgtext"> Resource Consulting </span> -->
 <!-- <span class="main-heading">Resource Consulting</span><hr> -->
-<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
+<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Resource Consulting.png');
+ background-size: 100%; ">
   <div class="container">
-    <center><h2>Resource Consulting</h2></center>
+    <center><h2><font color="white">Resource Consulting</font></h2></center>
   </div>
 </div>
 

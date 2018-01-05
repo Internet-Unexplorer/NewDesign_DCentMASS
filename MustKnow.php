@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: SRIDHAR K NAYAK   
-E-mail ID:   sridharsourceus@gmail.com
-Date:        01-01-2018
+Author name: Nadeem
+E-mail ID:   nadeem566sourceus@gmail.com
+Date:        2/1/18
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -16,7 +16,7 @@ Date:        01-01-2018
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Placement Of The Week</title>
+    <title>Must Know</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -89,70 +89,165 @@ Date:        01-01-2018
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-
-
-
+<!-- <span class="bgtext">Template</span> -->
+<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
+  <div class="container">
+    <center><h2>Must Know</h2></center>
+  </div>
+</div>
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Placement of the Week.png');
- background-size: 100%; ">
-  <div class="container">
-    <span class="main-heading"><font color="white"><center>Placement of the Week</center></font></span>
-  </div>
-</div>
-
-   
-     <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum</p> 
-     <br>
-  
+<!-- Interview Skills -->
 <div class="container-fluid">
 <div class="row">
-  <div class="col-md-6">
 
-    <center><iframe width="450" height="200" src="https://www.youtube.com/embed/-qsYLHtT-JQ?autoplay=0">
-    </iframe> <br><br></center>
-
-    <span class="para-heading">Lorem Ipsum is simply dummy</span>
-
-    <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining   </p>
+<div class="col-md-3">
+<h3>Interview Skills</h3>
 </div>
 
-<div class="col-md-6">
-    <center><iframe width="450" height="200" src="https://www.youtube.com/embed/YixNnWMT7y8?autoplay=0">
-    </iframe> <br><br></center>
-
-    <span class="para-heading">Lorem Ipsum is simply dummy</span>
-
-   <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining   </p>
+<div class="col-md-1">
+<div class="nad-vl1"></div>
 </div>
 
+<div class="col-md-8">
 
+<ul class="nad-ul">
+<li>1. This is the point for the skills required </li>
+<li>2. This is the point for the skills required </li>
+<li>3. This is the point for the skills required </li>
+<li>4. This is the point for the skills required </li>
+<li>5. This is the point for the skills required </li>
+</ul>
 
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
 </div>
 
-<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
-  <div class="container">
-    <center><h2>Our Partners</h2></center>
-  </div>
+</div>
 </div>
 
-<center><img src="images/placement3.png" class="img-fluid"/></center>
+<!-- Aptitude -->
+<div class="container-fluid">
+<div class="row">
 
-
-        
-
+<div class="col-md-3">
+<h3>Aptitude</h3>
 </div>
 
+<div class="col-md-1">
+<div class="nad-vl2"></div>
+</div>
 
+<div class="col-md-8">
 
+<ul class="nad-ul">
+<li>1. This is the point for the skills required </li>
+<li>2. This is the point for the skills required </li>
+<li>3. This is the point for the skills required </li>
+<li>4. This is the point for the skills required </li>
+<li>5. This is the point for the skills required </li>
+</ul>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
+</div>
+
+</div>
+</div>
+
+<!-- Technical Evaluation-->
+<div class="container-fluid">
+<div class="row">
+
+<div class="col-md-3">
+<h3>Technical Evaluation</h3>
+</div>
+
+<div class="col-md-1">
+<div class="nad-vl3"></div>
+</div>
+
+<div class="col-md-8">
+
+<ul class="nad-ul">
+<li>1. This is the point for the skills required </li>
+<li>2. This is the point for the skills required </li>
+<li>3. This is the point for the skills required </li>
+<li>4. This is the point for the skills required </li>
+<li>5. This is the point for the skills required </li>
+</ul>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
+</div>
+
+</div>
+</div>
+
+<!-- Resume Preparation-->
+<div class="container-fluid">
+<div class="row">
+
+<div class="col-md-3">
+<h3>Resume Preparation</h3>
+</div>
+
+<div class="col-md-1">
+<div class="nad-vl4"></div>
+</div>
+
+<div class="col-md-8">
+
+<ul class="nad-ul">
+<li>1. This is the point for the skills required </li>
+<li>2. This is the point for the skills required </li>
+<li>3. This is the point for the skills required </li>
+<li>4. This is the point for the skills required </li>
+<li>5. This is the point for the skills required </li>
+</ul>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
+</div>
+
+</div>
+</div>
+
+<!-- Soft Skills-->
+<div class="container-fluid">
+<div class="row">
+
+<div class="col-md-3">
+<h3>Soft Skills</h3>
+</div>
+
+<div class="col-md-1">
+<div class="nad-vl5"></div>
+</div>
+
+<div class="col-md-8">
+
+<ul class="nad-ul">
+<li>1. This is the point for the skills required </li>
+<li>2. This is the point for the skills required </li>
+<li>3. This is the point for the skills required </li>
+<li>4. This is the point for the skills required </li>
+<li>5. This is the point for the skills required </li>
+</ul>
+
+<button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Read more
+</button>
+</div>
+
+</div>
+</div>
 <!-- NOTE: Please keep your code clean + readable and add comments -->
-
-</div>
-</div>
-
-
-
 
 
 
