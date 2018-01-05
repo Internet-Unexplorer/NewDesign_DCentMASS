@@ -14,16 +14,16 @@
 		color:#ff0000; 
 	}
 
-.sab-card{
+/*.sab-card{
 
 	border:none;
-}
+}*/
 
-.sab-col{
+/*.sab-col{
 	margin-top:20px; 
 padding-left:7%; 
 padding-right:7%;
-}
+}*/
 .sab-span1 span{
 	color:#ff0000;
 	font-size:40px; 
@@ -36,14 +36,18 @@ padding-right:7%;
 .image-class{
 
 	border: 1px solid #333;
+	border-radius:2px; 
  overflow: hidden;
  height: 100%;
   position: relative;
+  width:100%; 
+
 }
 .image-class img{
 	  -moz-transition: all 0.3s;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+   display:block;
 
 	 
   width: 100%;
@@ -53,15 +57,58 @@ padding-right:7%;
 .image-class img:hover{
 	transition-duration:1s;
 transform:scale(1.1);
-opacity:0.5; 
+
+  cursor:pointer
 
 }
 .sab-container1{
 	margin-top:30px; 
 }
 
+.commonSeprator{
+	height: 1px;
+	width:250px;
+	position: relative;
+	background-color: #333;
+	    margin: 10px auto 30px;
+    display: block;
+}
+.circleDot {
+    margin-left: -5px;
+    width: 12px;
+    height: 12px;
+    border: 1px solid #333;
+    border-radius: 360px;
+    top: -6px;
+    background-color: #fff;
+    }
+    .circleDot {
+
+    position: absolute;
+    left: 50%;
+}
+
+.featured-image-heading{
+	display: flex;
+    flex: 1 1;
+    
+
+    pointer-events: none;
+    padding: 0 2rem;
+    position: absolute;
+    z-index: 2;
+    text-align:center;
+    color: #fefefe;
+ 
+    top:33%;
+    left:10px;
+    font-weight:bold;
 
 
+
+    text-transform: uppercase;
+    font-weight:700;
+   
 
 
 

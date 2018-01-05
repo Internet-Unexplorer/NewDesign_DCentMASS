@@ -104,12 +104,16 @@ Date:        <dd-mm-yyyy>
 
 <div class="container-fluid">
   <span class="sab-span1"><h2>Recent Talks</h2></span>
+  <span class="commonSeprator">
+  <span class="circleDot"></span>
+</span>
+
   <div class="row">
   <div class="col-md-6 sab-col">
     <div class="card sab-card">
       <div class="image-class">
   
-    <img src="images/s6.jpeg" class="img-fluid">
+    <img src="images/s1.jpeg" class="img-fluid">
   </div>
      <div class="card-body">
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.&nbsp;<a href="#"><span class="sab-span2"> MORE</span></a></p>
@@ -131,6 +135,10 @@ Date:        <dd-mm-yyyy>
 
 
 <span class=sab-span1><h2><span>DcentMASS</span> Is a Certified Learning Center</h2> </span>
+<span class="commonSeprator">
+  <span class="circleDot"></span>
+</span>
+
 
 <div class="container-fluid sab-container1">
    <div class="row">
@@ -151,14 +159,22 @@ Date:        <dd-mm-yyyy>
   <div class="row">
   <div class="col-md-4">
     <div class="card sab-card">
+    
+      
+
       <div class="image-class">
+
   <img src="images/javacoding.jpeg" class="img-fluid">
+  <h3 class="featured-image-heading">Java programming </h3>
 </div>
   <div class="card-body">
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build on the card title and make up the bulk of the card's content.&nbsp;<a href="#"><span class="sab-span2"> MORE</span></a></p>
      </div>
    </div>
   </div>
+
+
+
   <div class="col-md-4">
     <div class="card sab-card">
       <div class="image-class">
@@ -169,6 +185,9 @@ Date:        <dd-mm-yyyy>
      </div>
    </div>
   </div>
+
+
+  
   <div class="col-md-4">
     <div class="card sab-card">
       <div class="image-class">
