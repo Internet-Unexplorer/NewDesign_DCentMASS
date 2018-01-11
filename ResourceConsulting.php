@@ -20,27 +20,6 @@ Date:        16/12/17
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-  	<!-- Left bar starts -->
-     <div class="left-bar">
-      <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
-      </div>
-      <ul>
-      <!-- User class="activeLink" to make links active -->
-      <li><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
-      <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
-      <li  class="activeLink"><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
-      <li><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
-      <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
-      <li><a href="#"><i class="material-icons">event</i><span class="menuText">Events</span></a></li>
-      <li><a href="#"><i class="material-icons">perm_media</i><span class="menuText">Media</span></a></li>
-      <!-- <li><a href="#">Forum</a></li> -->
-      <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
-      <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
-      <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
-    </ul>
-     </div>
-     <!-- Left bar ends -->
 <!-- Mobile bar starts here -->
 
 <div id="mySidenav" class="sidenav">
@@ -61,30 +40,6 @@ Date:        16/12/17
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <!-- Mobile bar ends here -->
-     <!-- Right bar starts -->
-     <div class="right-bars">
-     	<div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Classroom Training</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Online Training</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Corporate Training</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">College Internship</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Job Placements</span></div></a>
-        <a href="#"><div class="rightMenuBlocks activeLink"><span class="linkText">Resource Consulting</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Interview Services</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Our Recommendation</span></div></a>
-         
-      </div>
-     	<div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Job Seekers</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Emplpoyer</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Partner Services</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-     	</div>
-     </div>
      
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
@@ -100,9 +55,10 @@ Date:        16/12/17
 <!-- WRITE MAIN CONTENT HERE -->
 <!-- <span class="bgtext"> Resource Consulting </span> -->
 <!-- <span class="main-heading">Resource Consulting</span><hr> -->
-<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image:url(../DCentMASS/images/maktum/online2.png); ">
+<div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Resource Consulting.png');
+ background-size: 100%; ">
   <div class="container">
-    <center><h2>Resource Consulting</h2></center>
+    <center><h2><font color="white">Resource Consulting</font></h2></center>
   </div>
 </div>
 
