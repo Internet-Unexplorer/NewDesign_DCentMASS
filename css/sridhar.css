@@ -172,8 +172,12 @@ div.scrolll {
 .sridhar-text3 {
  
   color: white;
-  font-size: 15px;
+  font-size: 12px;
   padding: 10px;
-  padding-left:30px; 
-  padding-right:30px;
+  padding-left:50px; 
+  padding-right:50px;
+}
+
+.sridhar-button{
+ background-color:black; 
 }

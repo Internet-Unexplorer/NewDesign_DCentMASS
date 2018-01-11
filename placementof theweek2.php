@@ -53,7 +53,9 @@ Date:        01-01-2018
 <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/Placement of the Week.png');
  background-size: 100%; ">
   <div class="container">
+
     <span class="main-heading"><font color="white"><center>Placement of the Week</center></font></span>
+
   </div>
 </div>
 
@@ -92,7 +94,7 @@ Date:        01-01-2018
   </div>
 </div>
 
-<center><img src="images/placement3.png" class="img-fluid"/></center>
+<center><img src="images/placement3.png" class="img-fluid sridhar-text3"/></center>
 
 
         

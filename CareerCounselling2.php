@@ -16,7 +16,9 @@ Date:        01-01-2018
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Carrer Counselling</title>
+
+    <title>Career Counselling</title>
+
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -53,7 +55,9 @@ Date:        01-01-2018
 <div class="jumbotron jumbotron-fluid" style="margin-top: 10px; background-image: url('images/stock/career counseling.png');
  background-size: 100%;");">
   <div class="container">
+
     <span class="main-heading"><font color="white"><center>Career Counselling</center></span></font>
+
   </div>
 </div>  
  
@@ -62,41 +66,41 @@ Date:        01-01-2018
 <div class="row">
 <hr>
 <div class="col-md-3">
-   <center> <img src="images/cc12.png" class="img-fluid"><br><br>
-<span class=text3> Stream Selector </span><br>
-<span class=text3>What to do after 10th?</span><br> <br>
+   <center> <img src="images/image1.png" class="img-fluid sridhar-text3"><br><br>
+<span class="para-heading"> Stream Selector </span><br>
+<span>What to do after 10th?</span><br> <br>
   <!-- Button to Open the Modal -->
-  <button class="sridhar-text3" type="button" class=" btn-primary" data-toggle="modal" data-target="#myModal">
+  <button class="sridhar-text3 sridhar-button" type="button"   data-toggle="modal" data-target="#myModal">
     For 10th Class
   </button> </center>
 </div>
 
 <div class="col-md-3">
-  <center> <img src="images/cc13.png" class="img-fluid"><br><br>
-  <span class=.text>Engineering Branch Selector</span>
-  <span class=.text>Which engg. branch is right?</span><br><br>
+  <center> <img src="images/image6.png" class="img-fluid sridhar-text3"><br><br>
+  <span class="para-heading">Engg. Branch Selector</span><br>
+  <span>Which engg. branch is right?</span><br><br>
   <!-- Button to Open the Modal -->
-  <button class="sridhar-text3"type="button" class="btn-primary" data-toggle="modal" data-target="#myModal1">
-    For 11th & 12th Class
+  <button class="sridhar-text3 sridhar-button" type="button"  data-toggle="modal" data-target="#myModal1">
+    For 11 & 12th Class
   </button></center>
 </div>
 
 <div class="col-md-3">
-  <center> <img src="images/cc14.png" class="img-fluid"><br><br>
-  <span class=.text>Ideal Career Test</span><br>
-  <span class=.text>What career is right for me?</span><br><br>
+  <center> <img src="images/image9.png" class="img-fluid sridhar-text3"><br><br>
+  <span class="para-heading">Ideal Career Test</span><br>
+  <span>What career is right for me?</span><br><br>
   <!-- Button to Open the Modal -->
-  <button class="sridhar-text3" type="button" class="btn-primary" data-toggle="modal" data-target="#myModal2">
+  <button class="sridhar-text3 sridhar-button" type="button"  data-toggle="modal" data-target="#myModal2">
     For all age groups
   </button></center>
 </div>
 
 <div class="col-md-3">
- <center><img src="images/cc15.png" class="img-fluid"> <br><br>
- <span class=.text>Skill Based Career</span><br>    
- <span class=.text>What is my true skills?</span> <br><br>
+ <center><img src="images/image10.png" class="img-fluid sridhar-text3"> <br><br>
+ <span class="para-heading">Skill Based Career</span><br>    
+ <span>What is my true skills?</span> <br><br>
   <!-- Button to Open the Modal -->
-  <button class="sridhar-text3" type="button" class=" btn-primary" data-toggle="modal" data-target="#myModal3">
+  <button class="sridhar-text3 sridhar-button" type="button"  data-toggle="modal" data-target="#myModal3">
     For all age groups
   </button></center>
 </div>
@@ -120,8 +124,8 @@ Date:        01-01-2018
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <span class=.text class="modal-title">What to do after 10th?</span> 
-          <button class="sridhar-text3" type="button" class="close" data-dismiss="modal">&times;</button>
+          <span class="modal-title">What to do after 10th?</span> 
+          <button type="button sridhar-button" class="close" data-dismiss="modal">&times;</button>
         </div>
         
         <!-- Modal body -->
@@ -131,7 +135,7 @@ Date:        01-01-2018
         
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn sridhar-button" data-dismiss="modal">Close</button>
         </div>
         
       </div>
@@ -153,9 +157,10 @@ Date:        01-01-2018
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <span class=.text class="modal-title">Why engineering branch is right for me?</span>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <span class="modal-title">Why engineering branch is right for me?</span>
+          <button type="button sridhar-button" class="close" data-dismiss="modal">&times;</button>
         </div>
+
         
         <!-- Modal body -->
         <div class="modal-body">
@@ -164,7 +169,7 @@ Date:        01-01-2018
         
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn sridhar-button" data-dismiss="modal">Close</button>
         </div>
         
       </div>
