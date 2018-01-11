@@ -20,6 +20,7 @@ Date:        <dd-mm-yyyy>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
+
 <!-- Mobile bar starts here -->
 
 <div id="mySidenav" class="sidenav">

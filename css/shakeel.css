@@ -1,453 +1,248 @@
-	 
- .sab-header{
- 	margin-top:20px; 
- }
- .sab-header h1{
- 	color:#F4682E; 
- }
 
-.contactus{
-	  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-
-
-.c2 h1{
-	border-bottom:2px solid #444;
-	width:18%;
-}
-	
-
-.c2 h2{
-	margin-left:35%;
-	color:white;
-}
-.c2{
-
-	background-color:#3681AC; 
-
-
-}
-
-.c2 .sab li{
-	margin-left:50%;
-	line-height:40px;
-	  
-}
-.c2 .sab li a{
-	color:#ddd; 
-}
-
-
-.c2  .sab1 li{
-	margin-left:50%;  
-	line-height:40px;  
-
-}
-.c2  .sab1 li a
-{
- color:#ddd; 
-}
-.c2  .sab2 li{
-	margin-left:50%;  
-	line-height:40px;  
-}
-.c2  .sab2 li a
-{
-  color:#ddd; 	
-}
-
-
-	
-
-.c3 .sab5 iframe{
-	position:absolute;
-	left:0px;
-	width:100%;
-		
-	
-	
-}
-.sab-c1 .map iframe{
-	
-	left:0px;
-	width:100%;
-	height:300px;
-}
-.sab-contactus{
-	background-color:;
-
-	
-}
-
-
-#shakeel{
-color:#CF1218;
-	margin-top:10px;
-
-
- }
- .contactus h1 {
- 	margin-left:10px; 
- 	border-bottom:2px solid #666;
-     width:50%;	
-
-}
-
- .contactus p{
- 	margin-left:10px; 
- }
-
-.shakeelclass {
-	vertical-align:top; 
-	margin-top:10px;
-	display: inline-block;
-}
-.shakeelclass1 {
-	vertical-align:top; 
-	margin-top:10px;
-	display: inline-block;
-}
-.shakeelclass2 {
-	vertical-align:top; 
-	margin-top:10px;
-	display: inline-block;
-}
-
-
-.btn{
-	background-color:black;
-	color:#fff;
-}
-
-.btn:hover{
-	background-color:grey; 
-
-}
-
-
-.sab-heading{
-		margin-top:35px; 
-	}
-
-
-
-
-.sab-heading p{
-
-	text-align:center;
-	margin:0;
-	 font-size: 16px;
-	 font-weight: 300;  
-	  line-height: 1.625;
-	   font-family: 'Source Sans Pro', helvetica, sans-serif, arial;
-
-}
-.sab-techtalks 	{
-	margin-top:30px; 
-}
-
-
-
-
-.sab-jumbotron{
-    
-background-image:url("../images/pexels-photo-288477	.jpeg");
-background-size:cover; 
-
-margin-top:25px;
-height:100%; 
- 
- 
-}
-.sab-jumbotron h1{
-text-align: center;
-margin-top:5%; 
-color:#fff;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Techtalks-->
-
- 
-.sab-heading{
-		margin-top:35px; 
-	}
-
-
-
-
-.sab-heading p{
-
-	text-align:center;
-	margin:0;
-	 font-size: 16px;
-	 font-weight: 300;  
-	  line-height: 1.625;
-	   font-family: 'Source Sans Pro', helvetica, sans-serif, arial;
-
-}
-.sab-techtalks 	{
-	margin-top:30px; 
-}
-
-
-
-
-.sab-jumbotron{
-    
-background-image:url("../images/pexels-photo-288477	.jpeg");
-background-size:cover; 
-
-margin-top:25px;
-height:100%; 
- 
- 
-}
-.sab-jumbotron h1{
-text-align: center;
-margin-top:5%; 
-color:#fff;
-}
-
-
-
-
-/* Shakeel 1 */
-
-	
-.sab-heading{
-	margin-top:35px; 
-}
-
-
-.sab-heading p{
-
-text-align:center;
-margin:0;
- font-size: 16px;
- font-weight: 300;  
-  line-height: 1.625;
-   font-family: 'Source Sans Pro', helvetica, sans-serif, arial;
-
-}
-.sab-techtalks 	{
-margin-top:30px; 
-}
-
-.sab-jumbotron{
-
-background-image:url("../images/pexels-photo-288477	.jpeg");
-background-size:cover; 
-
-margin-top:25px;
-height:100%; 
-
-
-}
-.sab-jumbotron h1{
-text-align: center;
-margin-top:5%; 
-color:#fff;
-}
-
-.sab-heading h2{
-margin-top:10px; 
-text-align:center;
-}	
-.sab-heading2{
-margin-top:5%; 
-}
-.sab-para{
-position:relative; 
-right:10%;  
-top:20px;  
-}
-
-.sab-hr1{
-
-border:1px solid black; width:200px;
-}
-.sab-hr2{
-
-border:1px solid black; width:100px;
-}
-
-
-.sab-hr3{
-
-border:1px solid black; width:300px;
-}
-
-
-.sab-recentimage
-{
-margin-top:50px; 
-right: 40px;  
-position: relative;
-border: 2px solid #ccc;
-border-radius:10px; 
-overflow: hidden;
-width: 360px;
-height:230px;
-
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
-}
-
-.sab-recentimage img {
-bottom:12px; 
-
--moz-transition: all 0.3s;
--webkit-transition: all 0.3s;
-transition: all 0.3s;
-height:240px; 
-
-}
-
-.sab-img img:hover {
- opacity:.5;
-cursor:pointer;
-overflow:hidden;
- transition-duration:1s;
- transform:scale(1.1);
-
-}
-
-.sab-img p{
-
-margin-top:10px; 
-font-weight:bold; 
-
-}
-
-.sab-heading2 h2{
-text-align:center; 
+.shakeel-jumbotron{
+	background-image:url('../images/renamed.jpeg');
+	background-size:cover;    
+	color:#fff; 
 }
 
 .sab-span1{
-color:#D70000;
+	text-align:center;
+	font-weight:bold;
+	font-size:35px; 
+	}  
+
+.sab-card{
+
+	border:none;
 }
 
-.sab-img2{
-left:15px;
-
+.sab-col{
+	margin-top:20px; 
+padding-left:7%; 
+padding-right:7%;
 }
+.sab-span1 span{
+	color:#ff0000;
+	font-size:40px; 
+}	
 
-.sab-imageclass1
-{
+.sab-container2{
+	margin-top:20px;
 
-margin-top:13px; 
-
-border: 1px solid #333;
-overflow: hidden;
-width: 300px;
-height:250px;
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
-}
-
-.sab-imageclass1 img {
-position: relative; 
-width: 100%;
--moz-transition: all 0.3s;
--webkit-transition: all 0.3s;
-transition: all 0.3s;
-height:100%; 
-}
-
-.sab-imageclass1 img:hover {
- opacity:.5;
-cursor:pointer;
-overflow:hidden;
- transition-duration:1s;
- transform:scale(1.1);
  
 }
-.sab-imageclass2{
-margin-top:13px; 
+.sab-span2{
+	color:#ff0000;
+}
+.image-class{
 
-border: 1px solid #333;
-overflow: hidden;
-width: 300px;
-height:91.5%;
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border:0px solid #fff;
+	border-radius:5px; 
+ overflow: hidden;
+ height: 100%;
+  position: relative;
+  width:100%; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.50);
+
 }
-.sab-imageclass2 img {
-position: relative;
- 
-width: 100%;
--moz-transition: all 0.3s;
--webkit-transition: all 0.3s;
-transition: all 0.3s;
-height:100%; 
+.image-class img{
+	  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+   display:block;
+
+	 
+  width: 100%;
+    height:100%;
+
 }
-.sab-imageclass2 img:hover {
-opacity:.5;
+.image-class img:hover{
+	transition-duration:1s;
+transform:scale(1.1);
+
+  cursor:pointer
+
+}
+.sab-container1{
+	margin-top:30px; 
+}
+
+.sab-commonSeprator{
+	height: 1px;
+	width:250px;
+	position: relative;
+	background-color: #cdcdcd;
+	    margin: 10px auto 30px;
+    display: block;
+}
+.sab-circleDot {
+    margin-left: -5px;
+    width: 12px;
+    height: 12px;
+    border: 1px solid #cdcdcd;
+    border-radius: 360px;
+    top: -6px;
+    background-color: #fff;
+    }
+    .sab-circleDot {
+
+    position: absolute;
+    left: 50%;
+}
+
+
+
+
+
+  
+
+
+
+
+/*form*/
+	
+
+
+
+.sab-body{
+	background-image:url("../images/formbackground.jpg"); 
+	background-size:cover;
+
+
+}
+@media only screen and (max-width: 900px) {
+   .sab-body{
+        background-image: none;
+    }
+
+   
+
+}
+
+#sab-signup{
+background-color:#fff;
+  padding:40px; 
+border-radius:6px;
+box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.50);	
+margin-top:38px;
+}
+
+
+ .sab-or {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #cdcdcd ; 
+   line-height: 0.1em;
+   margin-top: 20px;
+   padding-top:15px; 
+
+} 
+.sab-or>span { 
+
+    background:#fff; 
+    color:#cdcdcd; 
+    padding:10px; 
+
+}
+
+
+.sab-button1{
+	min-width:30%;background-color:#3b5998;color:#fff;cursor: pointer;  
+
+}
+.sab-button2{
+min-width:30%;background-color:#1dcaff;color:#fff;cursor: pointer; 
+}
+.sab-button3{
+	min-width:30%;background-color:#d34836;color:#fff; cursor: pointer;
+
+}
+
+
+.sab-h2-signup1{
+	margin-bottom:20px;
+}
+.sab-h2-signup2{
+	margin-top:25px;
+}
+
+
+
+
+.sab-arow-icon{
+	color:#574AF9;
+	cursor: pointer;
+}
+
+
+.form-control:focus{
+	border:0px;
+  box-shadow:  0 0px 0px rgba(0, 0, 0, 0.00), 0 0 1px rgba(0, 0, 0, 0.6);
+}
+
+
+
+
+
+
+
+
+
+
+/*form2*/
+
+.sab-icon{
+	color:#5244F9;
+
+
+}
+
+
+.input-group-addon{
+	background-color:#fff;
+}
+
+
+.sab-arow-icon1{
+	position:relative; 
+ 	margin-bottom:50px; 
+color: #574AF9;
 cursor:pointer;
-overflow:hidden;
- transition-duration:1s;
- transform:scale(1.1);
+
+}
+
+.sab-or1{
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #cdcdcd ; 
+   line-height: 0.1em;
+   position:relative; 
+   margin-bottom: 40px;
+   padding-top:10px; 
+
+} 
+.sab-or1>span { 
+
+    background:#fff; 
+    color:#cdcdcd; 
+    padding:10px; 
+
+}
+.sab-forgot{
+	color: #574AF9;
+text-align:right;   
+}
+.sab-signin1{
+
+	position:relative;
+	top:10px; 
+}
+#sab-signin-column{
+	padding:40px;
+	background-color:#fff; 
+	margin-top:3.5%;  
 }
 
 
 
-/* Shakeel 1 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*form3*/
