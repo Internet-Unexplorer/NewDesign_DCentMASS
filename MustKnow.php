@@ -20,27 +20,6 @@ Date:        2/1/18
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-  	<!-- Left bar starts -->
-     <div class="left-bar">
-      <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
-      </div>
-      <ul>
-        <!-- User class="activeLink" to make links active -->
-        <li class="activeLink"><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
-        <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
-        <li><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
-        <li><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
-        <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
-        <li><a href="#"><i class="material-icons">event</i><span class="menuText">Events</span></a></li>
-        <li><a href="#"><i class="material-icons">perm_media</i><span class="menuText">Media</span></a></li>
-        <!-- <li><a href="#">Forum</a></li> -->
-        <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
-        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
-        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
-      </ul>
-     </div>
-     <!-- Left bar ends -->
 <!-- Mobile bar starts here -->
 
 <div id="mySidenav" class="sidenav">
@@ -61,30 +40,6 @@ Date:        2/1/18
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <!-- Mobile bar ends here -->
-     <!-- Right bar starts -->
-     <div class="right-bars">
-     	<div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 1</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 2</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 3</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 4</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 5</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 6</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 7</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 8</span></div></a>
-         
-      </div>
-     	<div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 9</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 10</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 11</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 12</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 13</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 14</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 15</span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 16</span></div></a>
-     	</div>
-     </div>
      
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
@@ -112,13 +67,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</0l>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -142,13 +97,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -172,13 +127,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -202,13 +157,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
@@ -232,13 +187,13 @@ Date:        2/1/18
 
 <div class="col-md-8">
 
-<ul class="nad-ul">
-<li>1. This is the point for the skills required </li>
-<li>2. This is the point for the skills required </li>
-<li>3. This is the point for the skills required </li>
-<li>4. This is the point for the skills required </li>
-<li>5. This is the point for the skills required </li>
-</ul>
+<ol class="nad-ul">
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+<li> This is the point for the skills required </li>
+</ol>
 
 <button type="button" class="btn btn-primary float-right" data-toggle="button" aria-pressed="false" autocomplete="off">
   Read more
